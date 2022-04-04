@@ -96,7 +96,7 @@ public class ChopChopStopPlugin extends Plugin
 		{
 			return;
 		}
-		if (localPlayer == null || localPlayer.getName() == null || !localPlayer.getName().equals(chatMessage.getSender()))
+		if (localPlayer == null || localPlayer.getName() == null || !localPlayer.getName().equals(chatMessage.getName()))
 		{
 			return;
 		}
