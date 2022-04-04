@@ -1,2 +1,2 @@
 # Chop Chop Stop
-Hide and mute dragon tool special attacks.
+Hide and mute dragon, infernal, and crystal tool special attacks.
